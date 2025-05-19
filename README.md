@@ -22,7 +22,7 @@ Se basa en un **módulo creado por el youtuber [Keygen2009](https://www.youtube.
 | --- | --- |
 | 💻 | Windows 10/11 64 bit |
 | 🎮 | Left 4 Dead 2 (Steam, build actual — mayo 2025) |
-| 🧰 | [Cheat Engine](https://cheatengine.org) **(para agregar las direcciones de memoria manualmente)** |
+| 🧰 | [Cheat Engine](https://github.com/cheat-engine/cheat-engine) **(para agregar las direcciones de memoria manualmente)** |
 | 💼 | Visual Studio 2022 + SDK v143 (solo si quieres compilar) |
 | 🐇 | Habilidad para no romper los TOS de Valve 😉 |
 
